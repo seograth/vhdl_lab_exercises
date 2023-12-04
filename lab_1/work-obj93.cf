@@ -1,0 +1,7 @@
+v 4
+file . "t_lab1.vhdl" "a17f933b68147831cc2095d6ec06e6dd4003a49b" "20231126142613.214":
+  entity t_lab1 at 1( 0) + 0 on 11;
+  architecture test of t_lab1 at 8( 100) + 0 on 12;
+file . "lab1.vhdl" "3bde0f7ad3d338909dc35adf565a87e253b8cd21" "20231126142632.295":
+  entity lab1 at 1( 0) + 0 on 13;
+  architecture behav of lab1 at 12( 303) + 0 on 14;
