@@ -27,5 +27,5 @@ current_temp <= "10101010";
 desired_temp <= "01010101";
 display_select <= '0', '1' after 5 ns, '0' after 10 ns;
 
-end test;
+end TEST;
 

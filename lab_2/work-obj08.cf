@@ -1,0 +1,7 @@
+v 4
+file . "t_lab2.vhdl" "1bb1ab4dd9a4b4afc91739ce152f88e7b0a41d92" "20231212081800.514":
+  entity t_lab2 at 1( 0) + 0 on 11;
+  architecture test of t_lab2 at 8( 100) + 0 on 12;
+file . "lab2.vhdl" "0f6ba2061abb36e35ce828808a905c353ccb80e2" "20231212081800.514":
+  entity lab2 at 1( 0) + 0 on 13;
+  architecture behav of lab2 at 16( 417) + 0 on 14;
